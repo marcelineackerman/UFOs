@@ -36,7 +36,7 @@ One way to improve this website would be to make the article at the top dynamic 
 
 A second way to go further with this website would be to introduce a greater repository of data, perhaps also produced live with scraping from news aggregate sources. Currently, the data is limited to only the year 2010, but there are sightings that have happened in the past decade that users may want information on. Development could address this by creating a live database that pulls in and parses data from other sources to then display on the table, making this website far more useful.
 
-### Tools used
+## Tools used
 
  - Javascript ES6
  - HTML5
