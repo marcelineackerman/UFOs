@@ -38,6 +38,6 @@ A second way to go further with this website would be to introduce a greater rep
 
 ### Tools used
 
-Javascript ES6
-HTML5
-CSS
+ - Javascript ES6
+ - HTML5
+ - CSS
