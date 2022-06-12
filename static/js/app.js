@@ -14,7 +14,7 @@ function buildTable(data) {
         let row = tbody.append("tr");
 
         // Loop through data rows
-        Object.values(datarow).forEach((val) => {
+        Object.values(dataRow).forEach((val) => {
             let cell = row.append("td");
             cell.text(val);
             }
